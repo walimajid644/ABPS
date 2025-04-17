@@ -293,3 +293,19 @@ footer {
 .servicespage{
   background-color: #f2e6da;
 }
+
+
+/* --------------------------mobile screen responsive design */
+@media only screen and (max-width: 900px)
+{
+  .navbar-list{
+ width: 90vw;
+  }
+  .main p {
+    padding: 0px 25px;
+  }
+  .main h1 {
+    font-size: 200%;
+    padding: 25px;
+  }
+}
