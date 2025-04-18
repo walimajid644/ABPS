@@ -311,4 +311,11 @@ footer {
     font-size: 200%;
     padding: 25px;
   }
+  .div-img img {
+    padding: 50px;
+    width: 100vw;
+  }
+  
+
+
 }
