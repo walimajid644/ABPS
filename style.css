@@ -298,8 +298,11 @@ footer {
 /* --------------------------mobile screen responsive design */
 @media only screen and (max-width: 600px)
 {
+  .logo {
+    width: 30px;
+  }
   .navbar-list{
- width: 90vw;
+ width: 100vw;
   }
   .main p {
     padding: 0px 25px;
