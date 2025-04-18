@@ -299,17 +299,26 @@ footer {
 @media only screen and (max-width: 600px)
 {
   .logo {
-    width: 30px;
+    width: 40px;
+  }
+  .navbar{
+    padding: 25px 15px;
   }
   .navbar-list{
  width: 100vw;
   }
+  .main {
+    margin: 10px;
+    border-radius: 30px;
+    padding: 5px;
+  }
   .main p {
+    font-size: 100%;
     padding: 0px 25px;
   }
   .main h1 {
-    font-size: 200%;
-    padding: 25px;
+    font-size: 150%;
+    padding: 15px;
   }
   .div-img img {
     padding: 50px;
