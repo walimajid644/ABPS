@@ -324,7 +324,41 @@ footer {
     padding: 50px;
     width: 100vw;
   }
+  .parentslide ul li {
+    font-size: x-small;
+  }
+  .parent-container h2 {
+    font-size: x-large;
+  }
+  .choosebox {
+    font-size: large;
+    padding-top: 20px;
+  }
   
+  .insidechoosebox {
+    flex-direction: column;
+    justify-content:center;
+  }
+  
+  .choosecard {
+    width: 235px;
+    margin-top: 20px;
+  }
 
-
+  footer {
+    background-color: #f2e6da;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .links {
+    padding: 20px;
+  }
+  /*-------------------------- link headings */
+  .hlink {
+    margin: 0px 10px;
+    font-size: medium;
+  }
+  .links li {
+    font-size: x-small;
+  }
 }
