@@ -361,4 +361,22 @@ footer {
   .links li {
     font-size: x-small;
   }
+  .box {
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 20px;
+  }
+  
+  .box p {
+    font-size:medium;
+  }
+  
+  .box img {
+    width: 200px;
+    height: 150px;
+    margin: 20px;
+  }
+  
+
 }
