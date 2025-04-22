@@ -362,8 +362,8 @@ footer {
     font-size: x-small;
   }
   .box {
-    width: 210px;
-    height: 220px;
+    width: 160px;
+    height: 180px;
     margin: 12px;
     border-radius: 20px;
   }
@@ -373,8 +373,8 @@ footer {
   }
   
   .box img {
-    width: 180px;
-    height: 150px;
+    width: 130px;
+    height: 110px;
     margin: 10px;
   }
   
