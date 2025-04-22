@@ -362,9 +362,9 @@ footer {
     font-size: x-small;
   }
   .box {
-    width: 250px;
-    height: 250px;
-    margin: 20px;
+    width: 210px;
+    height: 220px;
+    margin: 12px;
     border-radius: 20px;
   }
   
@@ -373,9 +373,9 @@ footer {
   }
   
   .box img {
-    width: 200px;
+    width: 180px;
     height: 150px;
-    margin: 20px;
+    margin: 10px;
   }
   
 
