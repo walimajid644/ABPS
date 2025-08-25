@@ -342,11 +342,14 @@ font-size: 300%;
     width: 40px;
   }
   .navbar {
-    padding: 25px 15px;
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    padding: none;
   }
-  .navbar-list {
-    width: 100vw;
-  }
+  .navbar ul li a{
+    padding: 20px;
+  }*/
   .main {
     margin: 10px;
     border-radius: 30px;
