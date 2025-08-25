@@ -393,6 +393,22 @@ font-size: 300%;
   .links {
     padding: 20px;
   }
+
+  /* --------------------mobile responsive about page */
+  .aboutsection {
+    display: inline;
+  }
+  .rightabout img {
+    padding-top: 15px;
+    padding-left: 15px;
+    width: 95vw;
+  }
+  .leftabout2 img {
+    padding-top: 25px;
+    padding-left: 15px;
+    width: 95vw;
+  }
+
   /*-------------------------- link headings */
   .hlink {
     margin: 0px 10px;
