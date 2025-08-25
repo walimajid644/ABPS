@@ -337,19 +337,24 @@ font-size: 300%;
 }
 
 /* --------------------------mobile screen responsive design */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
   .logo {
     width: 40px;
   }
   .navbar {
-    display: block;
-    flex-direction: column;
-    justify-content: center;
-    padding: none;
+    flex-direction: column;  
+    align-items: center;
   }
-  .navbar ul li a{
-    padding: 17px;
-  }*/
+  .navbar ul {
+    flex-direction: row;      
+    width: 100%;            
+    justify-content: center;
+    gap: 35px;                
+    margin-top: 10px;        
+  }
+  .navbar ul li a {
+    font-size: 16px;
+  }
   .main {
     margin: 10px;
     border-radius: 30px;
