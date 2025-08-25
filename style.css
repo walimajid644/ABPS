@@ -15,24 +15,27 @@
 .navbar {
   display: flex;
   align-items: center;
-  width: 98vw;
+  justify-content: space-around;
   padding: 15px 10px;
 }
 
-.navbar-list {
+.navbar ul {
   display: flex;
   list-style: none;
-  width: 50vw;
   align-items: center;
-  justify-content: space-around;
+  width: 60vw;
+  justify-content: space-evenly;
 }
 
-.navbar-list li a {
+.navbar ul li a {
   text-decoration: none;
   color: black;
   text-align: center;
   font-weight: 500;
   font-size: 16px;
+  &:hover{
+    text-decoration: underline;
+  }
 }
 
 /* -------------------------------------main */
@@ -44,6 +47,7 @@
 }
 
 .div-img img {
+  animation: myAnim 1s ease 0s 1 normal forwards;
   width: 45vw;
 }
 
@@ -53,6 +57,7 @@
   border-radius: 50px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   padding: 10px;
+  animation: myAnim 1s ease 0s 1 normal forwards;
 }
 
 .main p {
@@ -103,6 +108,8 @@
   animation: 15s slide linear infinite;
 }
 
+/* ------------why choose us------------------ */
+
 .choosebox {
   margin: 30px;
   font-size: x-large;
@@ -123,8 +130,14 @@
   background-color: #eedccb;
   border-radius: 5px;
   padding-top: 40px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   width: 350px;
   height: 200px;
+  transition: transform 1s ease 0s;
+  &:hover{
+    cursor: pointer;
+    transform: scale(110%);
+  }
 }
 
 .parent-container h2 {
@@ -135,7 +148,7 @@
 .container-boxes {
   display: flex;
   flex-wrap: wrap;
-  margin: 50px 0px;
+  margin: 50px 47px;
 }
 .button button {
   margin-left: 40vw;
@@ -150,13 +163,18 @@
   background-color: #eedccb;
 }
 .box {
-  width: 380px;
+  width: 350px;
   height: 350px;
   margin: 20px;
   justify-content: center;
   text-align: center;
   border-radius: 50px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  transition: transform 1s ease 0s;
+  &:hover{
+    cursor: pointer;
+    transform: scale(110%);
+  }
 }
 
 .box p {
@@ -165,8 +183,8 @@
 }
 
 .box img {
-  width: 300px;
-  height: 250px;
+  width: 280px;
+  height: 240px;
   margin: 20px;
   justify-content: center;
   border-radius: 10px;
@@ -219,6 +237,7 @@ footer {
 
 .contactinfo {
   margin: 110px 0px 100px 50px;
+  animation: myAnim 1s ease 0s 1 normal forwards;
 }
 
 .contactinfo h1 {
@@ -267,6 +286,7 @@ footer {
 }
 .leftabout {
   padding: 30px 50px 0px 50px;
+  animation: myAnim 1s ease 0s 1 normal forwards;
 }
 .leftabout h1 {
   padding-bottom: 15px;
@@ -281,10 +301,12 @@ footer {
   width: 49vw;
 }
 .rightabout2 h2 {
+  animation: myAnim 1s ease 0s 1 normal forwards;
   margin-top: 20px;
   margin-left: 50px;
 }
 .rightabout2 p {
+  animation: myAnim 1s ease 0s 1 normal forwards;
   padding: 0px 15px 20px 50px;
   font-size: large;
 }
@@ -292,6 +314,21 @@ footer {
 /* ----------------servicepages--------- */
 .servicespage {
   background-color: #f2e6da;
+}
+
+
+
+/* ----------------------animation-------- */
+@keyframes myAnim {
+	0% {
+		opacity: 0;
+		transform: translateX(-250px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateX(0);
+	}
 }
 
 /* --------------------------mobile screen responsive design */
