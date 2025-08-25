@@ -315,7 +315,12 @@ footer {
 .servicespage {
   background-color: #f2e6da;
 }
-
+.parent-container{
+  padding-top: 50px;
+}
+.parent-container h2{
+font-size: 300%;
+}
 
 
 /* ----------------------animation-------- */
