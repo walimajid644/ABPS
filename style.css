@@ -355,6 +355,17 @@ font-size: 300%;
 .myButton:hover{
   border: 1px solid;
 }
+.box .des {
+  margin-top: 10px;
+  text-align: left;   
+  font-size: 14px;
+  line-height: 1.4;
+}
+.des ul{
+  list-style-type:disc;   
+  padding-left: 55px;      
+  margin: 10px 0px;
+}
 
 /* ----------------------animation-------- */
 @keyframes myAnim {
