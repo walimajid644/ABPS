@@ -10,6 +10,7 @@ function displayServices(serviceType) {
             <div class = "box" >
             <img src="${service.imageUrl}" alt="" loading="lazy"/>
             <p>${service.Name}</p>
+            <p class ="des">${service.Description}</p>
             </div>
             `;}
     renderedContainer.innerHTML += userCardHtml;

@@ -4,7 +4,7 @@ id: 1,
 Name: "Netflix",
 Type: "Vpn",
 imageUrl:"images/Netflixlogo.jpeg",
-Description: "Descriptionsssssssssssssssssssssssssss",
+Description: "Descriptionsdddddddddddddddddddddddddddddddddddddddds",
 },
     {
 id: 2,
@@ -39,13 +39,13 @@ Description: "Descriptionsssssssssssssssssssssssssss",
     {
 id: 7,
 Name: "Netflix",
-Type: "streamingService",
+Type: "iptv",
 Description: "Descriptionsssssssssssssssssssssssssss",
 },
     {
 id: 8,
 Name: "Netflix",
-Type: "streamingService",
+Type: "iptv",
 Description: "Descriptionsssssssssssssssssssssssssss",
 },
     {
@@ -93,7 +93,7 @@ Description: "Descriptionsssssssssssssssssssssssssss",
     {
 id: 16,
 Name: "Netflix",
-Type: "streamingService",
+Type: "aitool",
 Description: "Descriptionsssssssssssssssssssssssssss",
 },
     {
