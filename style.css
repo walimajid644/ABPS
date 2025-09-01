@@ -195,7 +195,7 @@
   margin: 20px;
   justify-content: center;
   border-radius: 10px;
-  object-fit: cover;
+  object-fit:fill;
 }
 
 /* -----------------------------------------------footer */
@@ -345,8 +345,8 @@ font-size: 300%;
 /* ------------------detail-services-page */
 .myButton{
   padding: 10px;
-  margin: 30px 30px;
-  width: 20%;
+  margin: 30px 20px;
+  width: 16%;
   border: none;
   font-size: large;
   background-color: #efceac;
