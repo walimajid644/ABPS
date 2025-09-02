@@ -92,9 +92,9 @@ Description:`
 },
     {
 id: 8,
-Name: "Geo Europe Package",
+Name: "Crystal",
 Type: "iptv",
-imageUrl:"images/geo.jpeg",
+imageUrl:"images/crystal.png",
 Description:`
       <ul>
         <li> ⁠Live Channels - 6000+</li>
@@ -105,9 +105,9 @@ Description:`
 },
     {
 id: 9,
-Name: "Geo Asian Mini Package",
+Name: "Dino",
 Type: "iptv",
-imageUrl:"images/geo.jpeg",
+imageUrl:"images/dino.png",
 Description:`
       <ul>
         <li>⁠Live Channels - 4000+</li>

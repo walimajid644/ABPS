@@ -19,6 +19,25 @@
   padding: 15px 10px;
 }
 
+.whatsappfloat{
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  transition: transform 0.2s ease-in-out;
+}
+.whatsappfloatimg{
+  width: 80px;       
+  height: 80px;
+}
+
+.whatsappfloat:hover {
+  transform: scale(1.1);
+}
+
 .navbar ul {
   display: flex;
   list-style: none;
