@@ -21,6 +21,8 @@
 
 .whatsappfloat{
   position: fixed;
+  background-color: white;
+  border-radius:50px;
   bottom: 40px;
   right: 40px;
   display: flex;
@@ -491,7 +493,11 @@ footer {
   .links li {
     font-size: x-small;
   }
-
+/* -------------------------whatsapp responsive logo */
+.whatsappfloatimg{
+  width: 50px;       
+  height: 50px;
+}
   /*------------------------- home-boxes*/
   .box {
     width: 260px;
@@ -516,9 +522,6 @@ footer {
     margin: 10px 20px;
     width: 38%;
   }
-  /* .myButton:hover {
-    border: 1px solid;
-  } */
   /* ----------------------------- */
   .contactUs {
     flex-direction: column-reverse;
