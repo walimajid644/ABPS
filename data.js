@@ -58,9 +58,9 @@ Type: "othertool",
 imageUrl:"images/Canvalogo.jfif",
 Description:`
       <ul>
-        <li>SINGLE DEVICE SCREEN </li>
-        <li>RENEWAL SCREENPIN PROTECTED</li>
-        <li>LOGIN VIA SIGN IN CODE</li>
+        <li>SINGLE DEVICE</li>
+        <li>PROTECTED</li>
+        <li>LOGIN</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
 },
@@ -136,10 +136,10 @@ Type: "iptv",
 imageUrl:"images/b1g.png",
 Description:`
       <ul>
-        <li>SINGLE DEVICE SCREEN </li>
-        <li>RENEWAL SCREENPIN PROTECTED</li>
-        <li>LOGIN VIA SIGN IN CODE</li>
-        <li>27 TO 30 DAYS DURATION TIME</li>
+        <li>⁠Live Channels: 23200+</li>
+        <li> ⁠Movies: 103000+</li>
+        <li> ⁠Series: 29500+</li>
+        <li>Required Speed: 25mbps⁠</li>
       </ul> `,
 },
     {
@@ -358,7 +358,7 @@ imageUrl:"images/capcutlogo.jfif",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -371,7 +371,7 @@ imageUrl:"images/Chatgptlogo.jfif",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -384,7 +384,7 @@ imageUrl:"images/Grammarly Logo.jfif",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -397,7 +397,7 @@ imageUrl:"images/picsartlogo.jpeg",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -410,7 +410,7 @@ imageUrl:"images/QuillBotlogo3.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <<li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -423,7 +423,7 @@ imageUrl:"images/Udemy Logo.jpeg",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -436,7 +436,7 @@ imageUrl:"images/express.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -449,7 +449,7 @@ imageUrl:"images/hma.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -462,7 +462,7 @@ imageUrl:"images/hotspot.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -475,7 +475,7 @@ imageUrl:"images/ipvanish.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -488,7 +488,7 @@ imageUrl:"images/nord.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -501,7 +501,7 @@ imageUrl:"images/pia.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -514,7 +514,7 @@ imageUrl:"images/proton.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -527,7 +527,7 @@ imageUrl:"images/surfshark.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -540,7 +540,7 @@ imageUrl:"images/tunnelbear.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -553,7 +553,7 @@ imageUrl:"images/office.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
+        <li>SINGLE DEVICE</li>
         <li>4K/HD QUALITY</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
@@ -566,8 +566,8 @@ imageUrl:"images/spotify.png",
 Description:`
       <ul>
         <li>BEST RATES</li>
-        <li>PRIVATE SCREEN</li>
-        <li>4K/HD QUALITY</li>
+        <li>SINGLE DEVICE</li>
+        <li>BEST SERVICE</li>
         <li>27 TO 30 DAYS DURATION TIME</li>
       </ul> `,
 },
