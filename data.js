@@ -152,7 +152,7 @@ Description:`
         <li>⁠Live Channels: 23200+</li>
         <li> ⁠Movies: 103000+</li>
         <li> ⁠Series: 29500+</li>
-        <li>Required Speed: 25mbps ⁠</li>
+        <li>Required Speed: 25mbps⁠</li>
       </ul> `,
 },
     {
@@ -550,6 +550,19 @@ id: 43,
 Name: "Office 365",
 Type: "othertool",
 imageUrl:"images/office.png",
+Description:`
+      <ul>
+        <li>BEST RATES</li>
+        <li>PRIVATE SCREEN</li>
+        <li>4K/HD QUALITY</li>
+        <li>27 TO 30 DAYS DURATION TIME</li>
+      </ul> `,
+},
+{
+id: 44,
+Name: "Spotify",
+Type: "othertool",
+imageUrl:"images/spotify.png",
 Description:`
       <ul>
         <li>BEST RATES</li>

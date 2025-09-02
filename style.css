@@ -33,7 +33,7 @@
   text-align: center;
   font-weight: 500;
   font-size: 16px;
-  &:hover{
+  &:hover {
     text-decoration: underline;
   }
 }
@@ -134,7 +134,7 @@
   width: 350px;
   height: 200px;
   transition: transform 1s ease 0s;
-  &:hover{
+  &:hover {
     cursor: pointer;
     transform: scale(110%);
   }
@@ -150,7 +150,7 @@
   flex-wrap: wrap;
   margin: 50px 47px;
 }
-.button{
+.button {
   margin-left: 45vw;
   padding: 20px 25px;
   width: 145px;
@@ -159,7 +159,7 @@
   background-color: #f2e6da;
   border-radius: 10px;
 }
-.button a{
+.button a {
   text-decoration: none;
   color: black;
 }
@@ -176,7 +176,7 @@
   border-radius: 50px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   transition: transform 1s ease 0s;
-  &:hover{
+  &:hover {
     cursor: pointer;
     transform: scale(110%);
   }
@@ -195,7 +195,7 @@
   margin: 20px;
   justify-content: center;
   border-radius: 10px;
-  object-fit:fill;
+  object-fit: fill;
 }
 
 /* -----------------------------------------------footer */
@@ -322,13 +322,13 @@ footer {
 .servicespage {
   background-color: #f2e6da;
 }
-.parent-container{
+.parent-container {
   padding-top: 50px;
 }
-.parent-container h2{
-font-size: 300%;
+.parent-container h2 {
+  font-size: 300%;
 }
-.detailButton{
+.detailButton {
   padding: 10px;
   margin: 10px 90px;
   width: 50%;
@@ -337,13 +337,13 @@ font-size: 300%;
   background-color: #efceac;
   border-radius: 10px;
 }
-.detailButton a{
+.detailButton a {
   text-decoration: none;
   color: black;
 }
 
 /* ------------------detail-services-page */
-.myButton{
+.myButton {
   padding: 10px;
   margin: 30px 20px;
   width: 16%;
@@ -352,32 +352,32 @@ font-size: 300%;
   background-color: #efceac;
   border-radius: 10px;
 }
-.myButton:hover{
+.myButton:hover {
   border: 1px solid;
 }
 .box .des {
   margin-top: 10px;
-  text-align: left;   
+  text-align: left;
   font-size: 14px;
   line-height: 1.4;
 }
-.des ul{
-  list-style-type:disc;   
-  padding-left: 55px;      
+.des ul {
+  list-style-type: disc;
+  padding-left: 55px;
   margin: 10px 0px;
 }
 
 /* ----------------------animation-------- */
 @keyframes myAnim {
-	0% {
-		opacity: 0;
-		transform: translateX(-250px);
-	}
+  0% {
+    opacity: 0;
+    transform: translateX(-250px);
+  }
 
-	100% {
-		opacity: 1;
-		transform: translateX(0);
-	}
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 
 /* --------------------------mobile screen responsive design */
@@ -386,20 +386,20 @@ font-size: 300%;
     width: 40px;
   }
   .navbar {
-    flex-direction: column;  
+    flex-direction: column;
     align-items: center;
   }
   .navbar ul {
-    flex-direction: row;      
-    width: 100%;            
+    flex-direction: row;
+    width: 100%;
     justify-content: center;
-    gap: 35px;                
-    margin-top: 10px;        
+    gap: 35px;
+    margin-top: 10px;
   }
   .navbar ul li a {
     font-size: 16px;
   }
-  .logo{
+  .logo {
     margin-left: 15px;
   }
   .main {
@@ -472,9 +472,11 @@ font-size: 300%;
   .links li {
     font-size: x-small;
   }
+
+  /*------------------------- home-boxes*/
   .box {
-    width: 160px;
-    height: 180px;
+    width: 260px;
+    min-height: 230px;
     margin: 16px;
     border-radius: 20px;
   }
@@ -482,19 +484,27 @@ font-size: 300%;
     font-size: medium;
   }
   .box img {
-    width: 130px;
-    height: 110px;
+    width: 230px;
+    height: 210px;
     margin: 10px;
   }
-  .button button {
-    margin-left: 32vw;
-    padding: 10px 25px;
+  .detailButton {
+    margin: 30px 60px;
     font-size: medium;
   }
+  /* ----------mobile---detailservices */
+  .myButton {
+    margin: 10px 20px;
+    width: 38%;
+  }
+  /* .myButton:hover {
+    border: 1px solid;
+  } */
+  /* ----------------------------- */
   .contactUs {
     flex-direction: column-reverse;
   }
-  .contact-img img{
+  .contact-img img {
     width: 85vw;
     margin-left: 30px;
     margin-bottom: -120px;
