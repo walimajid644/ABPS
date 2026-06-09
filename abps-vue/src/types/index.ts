@@ -1,6 +1,6 @@
 // src/types/index.ts
 
-export type ServiceCategory = 'streaming' | 'iptv' | 'vpn' | 'ai' | 'other';
+export type ServiceCategory = 'streamingService' | 'iptv' | 'Vpn' | 'aitool' | 'othertool';
 
 export interface Service {
   id: number;
