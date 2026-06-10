@@ -528,5 +528,75 @@ export const services: Service[] = [
       "BEST SERVICE",
       "27 TO 30 DAYS DURATION TIME"
     ]
+  },
+  {
+    id: 45,
+    name: "OPPLEX IPTV",
+    category: "iptv",
+    imageUrl: "/images/opplex.jpeg",
+    features: ["Live Channels: 13,700+", "Movies: 67,000+", "Series: 54,000+", "Net Speed: 8–10 Mbps"]
+  },
+  {
+    id: 46,
+    name: "B1G IPTV",
+    category: "iptv",
+    imageUrl: "/images/b1g.png",
+    features: ["Live Channels: 20,000+", "Movies & Shows: 22,000+", "Series: 3,000+", "Net Speed: 20–25 Mbps"]
+  },
+  {
+    id: 47,
+    name: "GEO WORLD PKG IPTV",
+    category: "iptv",
+    imageUrl: "/images/geo.jpeg",
+    features: ["Live Channels: 9,000+", "Movies & Shows: 67,000+", "Series: 7,000+", "Net Speed: 20–25 Mbps"]
+  },
+  {
+    id: 48,
+    name: "STARSHARE IPTV",
+    category: "iptv",
+    imageUrl: "/images/starshare.jpeg",
+    features: ["Live Channels: 9,000+", "Movies & Shows: 33,000+", "Series: 5,000+", "Net Speed: 20–25 Mbps"]
+  },
+  {
+    id: 49,
+    name: "MEGA OTT",
+    category: "iptv",
+    imageUrl: "/images/mega.png",
+    features: ["Live Channels: 23,000+", "Movies & Shows: 67,000+", "Series: 7,000+", "Net Speed: 25+ Mbps"]
+  },
+  {
+    id: 50,
+    name: "CRYSTAL OTT",
+    category: "iptv",
+    imageUrl: "/images/crystal.png",
+    features: ["Live Channels: 16,000+", "Movies: 101,600+", "Series: 23,500+", "Net Speed: 25+ Mbps"]
+  },
+  {
+    id: 51,
+    name: "5G LIVE / ZAIN OTT",
+    category: "iptv",
+    imageUrl: "/images/5glive.png",
+    features: ["Live Channels: 6,000+", "Movies: 38,600+", "Series: 3,000+", "Net Speed: 25+ Mbps"]
+  },
+  {
+    id: 52,
+    name: "LION OTT",
+    category: "iptv",
+    imageUrl: "/images/lion.png", // Ensure this image exists
+    features: ["Live Channels: 18,000+", "Movies & TV Shows: 80,000+", "Net Speed: 25+ Mbps"]
+  },
+  {
+    id: 53,
+    name: "TREX OTT",
+    category: "iptv",
+    imageUrl: "/images/trexiptv.png",
+    features: ["Live Channels: 32,300+", "Movies & Shows: 153,000+", "Series: 29,500+", "Net Speed: 25–30 Mbps"]
+  },
+  {
+    id: 54,
+    name: "IPTV 8K Strong OTT",
+    category: "iptv",
+    imageUrl: "/images/8kstrong.png", // Ensure this image exists
+    features: ["Live Channels: 34,621+", "Movies & Shows: 125,714+", "Series: 30,402+", "Required Speed: 25+ Mbps"]
   }
 ];
